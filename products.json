@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Laptop",
+      "price": 899.99,
+      "category": "Electronics",
+      "image": "images/laptop.jpeg"
+    },
+    {
+      "name": "Headphones",
+      "price": 199.99,
+      "category": "Electronics",
+      "image": "images/headphones.jpeg"
+    },
+    {
+      "name": "Coffee Maker",
+      "price": 79.99,
+      "category": "Home Appliances",
+      "image": "images/Coffee Maker.jpeg"
+    },
+    {
+      "name": "Smartphone",
+      "price": 599.99,
+      "category": "Electronics",
+      "image": "images/Smartphone.jpeg"
+    },
+    {
+      "name": "Shoes",
+      "price": 49.99,
+      "category": "Fashion",
+      "image": "images/Shoes.jpeg"
+    },
+    {
+      "name": "Backpack",
+      "price": 29.99,
+      "category": "Fashion",
+      "image": "images/Backpack.jpeg"
+    }
+  ]
+  
